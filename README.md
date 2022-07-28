@@ -2,7 +2,7 @@
 I'm a passionate FrontEnd developer from Bishkek.
 * 💼 FrontEnd Engineer at @mypeaksoft
 
-##Skills
+## Skills
 * ⚛️ React
 * 💻 HTML, CSS, JavaScript
 * ⚛️ Next.js

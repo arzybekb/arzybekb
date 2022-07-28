@@ -5,7 +5,7 @@ I'm a passionate FrontEnd developer from Bishkek.
 ## Skills
 * ⚛️ React
 * 💻 HTML, CSS, JavaScript
-* ⚛️ Next.js
+* ⚡ Next.js
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzybekb&count_private=true)

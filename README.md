@@ -1,6 +1,7 @@
 # Arzybek Bekmuratov
 I'm a passionate FrontEnd developer from Bishkek.
 * 💼 FrontEnd Engineer at @mypeaksoft
+
 ##Skills
 * ⚛️ React
 * 💻 HTML, CSS, JavaScript
@@ -8,7 +9,7 @@ I'm a passionate FrontEnd developer from Bishkek.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzybek)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzybekb)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arzybekb/arzybekb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

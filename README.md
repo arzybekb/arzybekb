@@ -15,6 +15,8 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git"/>
   <img align="center" width="150px" height="100px" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png" alt="MUI"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="eslint"/>
+  <img width="120px" height="100px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="nextjs"/>
+  <img width="90px" height="90px" align="center" src="https://www.styled-components.com/atom.png" alt="sc"/>
 </p>
 
 ![ARZYBEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzybekb&count_private=true)

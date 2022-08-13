@@ -14,6 +14,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git"/>
   <img align="center" width="150px" height="100px" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png" alt="MUI"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="eslint"/>
 </p>
 
 ![ARZYBEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzybekb&count_private=true)

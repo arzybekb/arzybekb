@@ -1,8 +1,7 @@
 # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=230&lines=Arzybek+Bekmuratov)](https://git.io/typing-svg) </div>
-<p align="center">I'm a passionate FrontEnd developer from Bishkek.</p>
 <p align="center"> 💼 FrontEnd Engineer at <a href='https://github.com/mypeaksoft'>Peaksoft</a></p>
 
-## <h3 align="center">💻Tech Stack</h3>
+<!--## <h3 align="center">💻Tech Stack</h3>
 <p align="left">
   <img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html"/>
@@ -19,6 +18,7 @@
   <img width="100px" height="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="nextjs"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"/>
 </p>
+-->
 
 ![ARZYBEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzybekb&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzybekb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

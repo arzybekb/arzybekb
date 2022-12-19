@@ -1,4 +1,4 @@
-# <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=230&lines=Arzybek+Bekmuratov)](https://git.io/typing-svg) </div>
+<!-- # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=230&lines=Arzybek+Bekmuratov)](https://git.io/typing-svg) </div> -->
 <p align="center"> 💼 FrontEnd Engineer at <a href='https://github.com/mypeaksoft'>Peaksoft</a></p>
 
 <!--## <h3 align="center">💻Tech Stack</h3>

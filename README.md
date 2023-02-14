@@ -19,9 +19,10 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"/>
 </p>
 -->
+<img align="center" src="https://raw.githubusercontent.com/azat-io/azat-io/main/misc/background.webp" alt="bg"/>
 
 <!-- ![ARZYBEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzybekb&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzybekb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzybekb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **arzybekb/arzybekb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
